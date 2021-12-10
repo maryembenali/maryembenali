@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maryembenali
 - 👀 I’m interested in computer science in general !
 - 🌱 I’m currently learning  html/css + javascript/react
-- 📫 How to reach me : on linkedin ( username :maryem ben ali)
+- 📫 How to reach me : through linkedin ( username :maryem ben ali)
 
 <!---
 maryembenali/maryembenali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
