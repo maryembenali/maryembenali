@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maryembenali
 - 👀 I’m interested in computer science in general ( and currently cloud computing )  !
-- 🌱 I’m currently learning  html/css + javascript/react + java
+- 🌱 I’m currently learning  ML and DL
 - 📫 How to reach me : through linkedin ( username :maryem ben ali)
 
 <!---
