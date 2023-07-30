@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maryembenali
-- 👀 I’m interested in computer science in general ( and currently cloud computing )  !
-- 🌱 I’m currently learning  ML and DL
-- 📫 How to reach me : through linkedin ( username :maryem ben ali)
+- 👀 I’m a 2nd year software engineering student in The National School of Computer Science (ENSI)  !
+- 🌱 A data science enthusiast
+- 📫 How to reach me : [Through linkedin](https://www.linkedin.com/in/maryem-ben-ali-947491222/))
 
 <!---
 maryembenali/maryembenali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
